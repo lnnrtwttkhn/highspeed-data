@@ -1,0 +1,4 @@
+[submodule "highspeed-data-behavior"]
+	path = highspeed-data-behavior
+	url = ./highspeed-data-behavior
+	datalad-id = 5225df0c-f98e-11ea-8942-acde48001122
